@@ -31,7 +31,8 @@ public class App {
         System.out.println("Hello, World!");
         
         //Membuat objek
-        Mahasiswa mhs_1 = new Mahasiswa("zofita", "23241108", "Pti", 35.7);
+        Mahasiswa mhs_1 = new Mahasiswa("diah", "23241095", "Pti", 3.4);
+                                    
     
     }
 }
